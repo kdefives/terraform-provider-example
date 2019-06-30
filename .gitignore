@@ -1,0 +1,4 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/plugins/linux_amd64/lock.json
+terraform-provider-example
